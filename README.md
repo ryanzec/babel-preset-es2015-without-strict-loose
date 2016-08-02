@@ -1,0 +1,1 @@
+Babel preset for not using strict and using the loose option (useful for IE 10+ support)
